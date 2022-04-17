@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Review: Game of Thrones Saga"
-tags: got review
+title: "Sistema de Arquivo Linux"
+tags: tutorial
 ---
 
 Utilizando comandos Bourne shell (sh) crie a árvore de diretórios representada na figura abaixo e
