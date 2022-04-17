@@ -20,8 +20,8 @@ dash:
   date_format: "%b %-d, %Y"
 
   # (optional) discqus comment configuration
-  disqus: https://quirky-swanson-6293db.netlify.app
-    shortname: https-quirky-swanson-6293db-netlify-app
+  disqus: https://alandash.vercel.app/
+    shortname: alandash
 
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
