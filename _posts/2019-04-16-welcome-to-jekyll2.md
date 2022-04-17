@@ -1,9 +1,13 @@
 ---
 layout: post
-title: "Bem vindos, aqui!"
+title: "Bem vindos!"
 description: this article explains something and gives a brief introduction.
 tags: welcome introduction
 ---
+
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
 > "This is a quote which should be followed"
 > Also I think this sentence is quite long.
@@ -49,4 +53,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/jekyll?src=hash&amp;ref_src=twsrc%5Etfw">#jekyll</a> <a href="https://twitter.com/hashtag/dash?src=hash&amp;ref_src=twsrc%5Etfw">#dash</a> now officially supports both, dark and light theming. Enjoy!<a href="https://t.co/4evp9pX2Ws">https://t.co/4evp9pX2Ws</a> <a href="https://t.co/vOQCZjGKic">pic.twitter.com/vOQCZjGKic</a></p>&mdash; 〽️ɪɢᴜᴇʟ (@bitbrain_) <a href="https://twitter.com/bitbrain_/status/1166440978124877827?ref_src=twsrc%5Etfw">August 27, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">UMA CURIOSIDADE SOBRE LINUX:<br><br>Você sabia que é possível assistir ao Star Wars: Episódio IV – Uma Nova Esperança, em ASCII, pelo terminal? <br><br>Para isso, basta abrir o terminal e rodar o comando:<br>telnet <a href="https://t.co/l3xxIQ9OiD">https://t.co/l3xxIQ9OiD</a> <a href="https://t.co/FLitBPQ7hl">pic.twitter.com/FLitBPQ7hl</a></p>&mdash; Durval Henrique (@lavrudinho) <a href="https://twitter.com/lavrudinho/status/1511494468733747205?ref_src=twsrc%5Etfw">April 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
