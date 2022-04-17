@@ -8,7 +8,7 @@ Utilizando comandos Bourne shell (sh) crie a árvore de diretórios representada
 os arquivos solicitados, numa CLI (command line interface) Linux (emulador JSLinux1
 ), considerando, estritamente o que se pede nos passos a seguir (um comando por passo).
 
-![image](https://github.com/AlanPrates/img/blob/main/Captura%20da%20Web_17-4-2022_23250_.jpeg){: .modal}
+![image](https://raw.githubusercontent.com/AlanPrates/img/main/Captura%20da%20Web_17-4-2022_23250_.jpeg){: .modal}
 
 1. Crie os diretórios da estrutura acima a partir do diretório raiz do emulador JSLinux.
 2. Sem utilizar um editor de texto, crie, no diretório Direito, um arquivo chamado a.txt, cujo
