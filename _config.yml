@@ -5,6 +5,9 @@ description: > # this means to ignore newlines until "show_exerpts:"
   Desenvolvedor web, com amplo conhecimento há anos de experiência,
   trabalhando em tecnologias web e design UI/UX, entregando trabalho 
   de qualidade.
+# required by disqus to display comments
+url: https://alandash.vercel.app/
+
 show_excerpts: false # set to true to show excerpts on the homepage
 paginate: 2
 paginate_path: "/blog/page:num/"
