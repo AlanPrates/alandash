@@ -8,7 +8,7 @@ Utilizando comandos Bourne shell (sh) crie a árvore de diretórios representada
 os arquivos solicitados, numa CLI (command line interface) Linux (emulador JSLinux1
 ), considerando, estritamente o que se pede nos passos a seguir (um comando por passo).
 
-![image](https://github.com/AlanPrates/alandash/blob/main/img/Captura%20da%20Web_17-4-2022_23250_.jpeg?raw=true){: .modal}
+![image](https://raw.githubusercontent.com/AlanPrates/alandash/main/img/Captura%20da%20Web_17-4-2022_23250_.jpeg?token=GHSAT0AAAAAABTQJB5DOHE2V6NSDYV5WMRYYS3VGMQ){: .modal}
 
 1. Crie os diretórios da estrutura acima a partir do diretório raiz do emulador JSLinux.
 2. Sem utilizar um editor de texto, crie, no diretório Direito, um arquivo chamado a.txt, cujo
@@ -25,12 +25,19 @@ os arquivos solicitados, numa CLI (command line interface) Linux (emulador JSLin
 
 ```
 1/root@pop-os:/$ mkdir -p so/{esquerdo,meio/baixo,direito}
+
 2/root@pop-os:/$ echo 'Tenho que estudar mais!' > so/direito/a.txt
+
 3/root@pop-os:/$ mv so/direito/a.txt so/meio/baixo/
+
 4/root@pop-os:/$ cp so/meio/baixo/a.txt so/esquerdo/
+
 5/root@pop-os:/$ mv so/esquerdo/a.txt so/esquerdo/b.txt
+
 6/root@pop-os:/$ cp -R so/meio so/direito/
+
 7/root@pop-os:/$ rm -rf so/meio/
+
 8/root@pop-os:/$ cat so/esquerdo/b.txt so/direito/meio/baixo/a.txt > so/c.txt
 ```
 
