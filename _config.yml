@@ -21,7 +21,7 @@ dash:
 
   # (optional) discqus comment configuration
   disqus:
-    shortname: alandash
+    shortname: https://alandash.vercel.app/
 
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
