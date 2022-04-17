@@ -20,7 +20,7 @@ dash:
   date_format: "%b %-d, %Y"
 
   # (optional) discqus comment configuration
-  disqus: https://alandash.vercel.app
+  disqus: https://alandash.disqus.com
     shortname: alandash
 
   # generate social links in footer
