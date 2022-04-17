@@ -20,7 +20,7 @@ dash:
   date_format: "%b %-d, %Y"
 
   # (optional) discqus comment configuration
-  disqus:
+  disqus: https-quirky-swanson-6293db-netlify-app
     shortname: https://github.com/AlanPrates
 
   # generate social links in footer
