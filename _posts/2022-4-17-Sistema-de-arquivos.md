@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sistema de Arquivo Linux PT-BR"
+title: "Sistema de Arquivo Linux /PT-BR"
 tags: tutorial
 comments: true
 ---
