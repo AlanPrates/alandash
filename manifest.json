@@ -1,0 +1,19 @@
+{
+  "background_color": "#ffffff",
+  "description": "Web developer, with extensive knowledge from years of experience, working on web technologies and UI/UX design, delivering quality work.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Alan Prates",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Alan Prates",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "images/32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    }
+  ]
+}

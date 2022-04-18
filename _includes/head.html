@@ -12,4 +12,10 @@
   {%- endif -%}
   <script src="https://code.jquery.com/jquery-3.2.0.min.js"></script> 
   <script src="{{ "/assets/js/jquery.magnific-popup.js" | relative_url }}"></script>
+  <link rel="manifest" href="manifest.json" />
+  <script type="module">
+    import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+    const el = document.createElement('pwa-update');
+    document.body.appendChild(el);
+ </script>
 </head>
