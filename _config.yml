@@ -38,8 +38,8 @@ dash:
       icon: github-square
       color: purple
     - url: https://play.google.com/store
-      icon: download-square
-      color: green
+      icon: google-play
+      color: yellow
 
   # wether the author box should be displayed
   show_author: true
