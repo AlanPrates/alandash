@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bem vindos!"
+title: "Welcome!"
 description: this article explains something and gives a brief introduction.
 tags: welcome introduction
 ---
