@@ -37,7 +37,7 @@ dash:
     - url: https://github.com/AlanPrates
       icon: github-square
       color: purple
-    - url: https://alandash.vercel.app/Alan.apk
+    - url: https://alandash.vercel.app/App-Alan-Prates.apk
       icon: google-play
       color: yellow
 
