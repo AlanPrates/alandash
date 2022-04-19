@@ -24,6 +24,8 @@ estrutura semelhante a apresentada abaixo
    devem ser ligadas através de links na página principal. Utilize imagens como links. OBS: Em cada
    uma das páginas criadas adicione um <h1> para o título correspondente: O pai, O nerd e o Ator.`YYYY-MM-DD-name-of-post.ext`
 
+`Pagina inicial HTML`
+
 ```html
 <!DOCTYPE html>
 <!--
@@ -106,6 +108,8 @@ and open the template in the editor.
 </html>
 .
 ```
+
+`Pagina Style.css`
 
 ```css
 body,
