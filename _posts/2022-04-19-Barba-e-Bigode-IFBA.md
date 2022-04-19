@@ -24,7 +24,7 @@ estrutura semelhante a apresentada abaixo
    devem ser ligadas através de links na página principal. Utilize imagens como links. OBS: Em cada
    uma das páginas criadas adicione um <h1> para o título correspondente: O pai, O nerd e o Ator.`YYYY-MM-DD-name-of-post.ext`
 
-   `Preview da Barbearia: https://alandash.vercel.app/progetos/index.html`
+   Preview da Barbearia: https://alandash.vercel.app/progetos/index.html
 
 `Pagina index.html`
 
