@@ -21,8 +21,8 @@ estrutura semelhante a apresentada abaixo
 1. As imagens utilizadas estão disponíveis nos arquivos do TEAMS.
 2. Desenvolva uma página HTML e o código CSS em arquivo externo.
 3. Além da página principal, você deverá criar três outras páginas: nerd, pai e ator. Estas páginas
-devem ser ligadas através de links na página principal. Utilize imagens como links. OBS: Em cada
-uma das páginas criadas adicione um <h1> para o título correspondente: O pai, O nerd e o Ator.
+   devem ser ligadas através de links na página principal. Utilize imagens como links. OBS: Em cada
+   uma das páginas criadas adicione um <h1> para o título correspondente: O pai, O nerd e o Ator.
 
 [Demostração do site pronto][demostração-do-site-pronto]
 
@@ -52,12 +52,12 @@ and open the template in the editor.
     <header class="header">
       <nav>
         <ul class="menu">
-          <li><a href="/">HOME</a></li>
-          <li><a href="/">FOTOS & TENDÊNCIAS</a></li>
-          <li><a href="/">LOCALIZAÇÃO</a></li>
-          <li><a href="/">TRABALHE CONOSCO</a></li>
-          <li><a href="/">NOSSAS FILIAS</a></li>
-          <li><a href="/">CONTATO</a></li>
+          <li><a href="index.html">HOME</a></li>
+          <li><a href="index.html">FOTOS & TENDÊNCIAS</a></li>
+          <li><a href="index.html">LOCALIZAÇÃO</a></li>
+          <li><a href="index.html">TRABALHE CONOSCO</a></li>
+          <li><a href="index.html">NOSSAS FILIAS</a></li>
+          <li><a href="index.html">CONTATO</a></li>
         </ul>
       </nav>
     </header>
@@ -68,15 +68,15 @@ and open the template in the editor.
     <section class="flex">
       <div>
         <img src="imagens/ator.jpg" />
-        <h3>Ator</h3>
+        <h3><a href="Ator.html">Ator</a></h3>
       </div>
       <div>
         <img src="imagens/nerd.jpg" />
-        <h3>Nerd</h3>
+        <h3><a href="Nerd.html">Nerd</a></h3>
       </div>
       <div>
         <img src="imagens/pai.jpg" />
-        <h3>Pai</h3>
+        <h3><a href="Pai.html">Pai</a></h3>
       </div>
     </section>
 
