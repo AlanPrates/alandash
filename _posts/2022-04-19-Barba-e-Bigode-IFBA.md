@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Atividade Web /IFBA-Campus Ilhéus"
+title: "Atividade Web /IFBA-Campus Ilhéus /PT-BR"
 description: Atividade prática avaliativa Página Barbearia
 tags: tutorial
 ---
