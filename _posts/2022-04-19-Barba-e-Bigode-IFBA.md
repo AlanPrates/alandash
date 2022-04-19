@@ -24,7 +24,7 @@ estrutura semelhante a apresentada abaixo
    devem ser ligadas através de links na página principal. Utilize imagens como links. OBS: Em cada
    uma das páginas criadas adicione um <h1> para o título correspondente: O pai, O nerd e o Ator.`YYYY-MM-DD-name-of-post.ext`
 
-   Preview da Barbearia: https://alandash.vercel.app/progetos/index.html
+   Preview da Barbearia: [https://alandash.vercel.app/progetos/index.html]
 
 `Pagina index.html`
 
@@ -223,3 +223,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+[https://alandash.vercel.app/progetos/index.html]: https://alandash.vercel.app/progetos/index.html
