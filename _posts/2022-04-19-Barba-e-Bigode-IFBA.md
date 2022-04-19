@@ -192,11 +192,6 @@ h3 {
   margin: 20px;
 }
 
-.flex2 > div {
-  flex: 1 1 200px;
-  margin-left: 600px;
-}
-
 .videos {
   display: flex;
   margin-top: 50px;
