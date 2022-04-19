@@ -110,7 +110,6 @@ and open the template in the editor.
     </ul>
   </rodape>
 </html>
-.
 ```
 
 `Pagina Style.css`
@@ -191,6 +190,11 @@ h3 {
 .flex > div {
   flex: 1 1 200px;
   margin: 20px;
+}
+
+.flex2 > div {
+  flex: 1 1 200px;
+  margin-left: 600px;
 }
 
 .videos {
