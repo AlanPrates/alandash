@@ -21,12 +21,12 @@ estrutura semelhante a apresentada abaixo
 1. As imagens utilizadas estão disponíveis nos arquivos do TEAMS.
 2. Desenvolva uma página HTML e o código CSS em arquivo externo.
 3. Além da página principal, você deverá criar três outras páginas: nerd, pai e ator. Estas páginas
-   devem ser ligadas através de links na página principal. Utilize imagens como links. OBS: Em cada
-   uma das páginas criadas adicione um <h1> para o título correspondente: O pai, O nerd e o Ator.`YYYY-MM-DD-name-of-post.ext`
+devem ser ligadas através de links na página principal. Utilize imagens como links. OBS: Em cada
+uma das páginas criadas adicione um <h1> para o título correspondente: O pai, O nerd e o Ator.`YYYY-MM-DD-name-of-post.ext`
 
-   [Demostração do site pronto][demostração-do-site-pronto]
+[Demostração do site pronto][demostração-do-site-pronto]
 
-   [Material complementar][material-complementar]
+[Material complementar][material-complementar]
 
 `Pagina index.html`
 
